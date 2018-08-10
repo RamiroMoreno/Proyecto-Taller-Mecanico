@@ -1,0 +1,2 @@
+# Proyecto-Taller-Mecanico
+Proyecto realizado en 4 semestre de la materia de topicos avanzados de programacion  El proyecto consta de un software que genera la cantidad de ventas diarias en un taller mecanico. al momento de presionar el boton de "Reporte" te aparece el total de las ventas diarias  DIA , MES ,AÑO , IMPORTE A COBRAR Y ACTIVIDAD REALIZADA , son las que tienes que llenar para que se almacenen en una tabla y de esa tabla poder crear el reporte.
